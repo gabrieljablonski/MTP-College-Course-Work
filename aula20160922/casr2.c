@@ -7,6 +7,7 @@ int main()
 	int i;
 	float f;
 	char c;
+
 	printf("Entre com um inteiro: ");
 	recebe_dado('i',&i);
 	
