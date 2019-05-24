@@ -8,3 +8,4 @@ Subjects covered:
 * Functions
 * Basic data structures
 * Pointer manipulation
+* Principles of GUIs (in C#)
